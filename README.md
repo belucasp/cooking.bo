@@ -4,7 +4,7 @@
 ##Gerador de Receitas 
 
 O **COOKING.BO** é uma projeto feito em PHP que consome a API da OPENAI. Seu objetivo é gerar uma receita com ingredientes que você tem na sua geladeira.
-Um projeto relatiamente simples que fiz para estudar um pouco sobre o consumo de API's. 
+Um projeto relativamente simples que fiz para estudar um pouco sobre o consumo de API's. 
 
 ##Teconologias e bibliotecas usadas:
 
